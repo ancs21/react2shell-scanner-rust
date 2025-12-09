@@ -1,0 +1,10 @@
+dev/
+
+# Rust
+/target
+Cargo.lock
+
+# Python (legacy)
+__pycache__/
+*.py[cod]
+.venv/
