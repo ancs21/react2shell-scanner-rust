@@ -47,6 +47,7 @@ cargo build --release
 
 ## Credits
 
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - Original Python implementation
 - [@maple3142](https://x.com/maple3142) - RCE PoC
 - [Assetnote](https://x.com/assetnote) - Research Team
 - [@xEHLE_](https://x.com/xEHLE_) - Header reflection
